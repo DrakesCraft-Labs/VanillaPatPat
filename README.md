@@ -21,8 +21,8 @@ Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mo
 
 | Versión de Minecraft | Estado |
 |---|---|
-| 1.20.6 | ✅ Soportado |
-| 1.21.x  | No testeado (probablemente compatible) |
+| 1.21.11 | ✅ Objetivo principal (Paper API 1.21.11) |
+| 1.20.6 | ✅ 1.0.0 (API antigua); usa **1.0.1** para 1.21 |
 
 **Server Software compatibles:** Paper, Purpur, Spigot (y forks).
 
