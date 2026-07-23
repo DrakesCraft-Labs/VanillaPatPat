@@ -11,7 +11,7 @@ Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mo
 ## Features
 
 - ✅ 100% server-side — no requiere mods en el cliente
-- ✅ Compatible con cualquier mob vivo (animales, monstruos, etc.)
+- ✅ Compatible with cualquier mob vivo (animales, monstruos, etc.)
 - ✅ Cooldown de 500ms anti-spam
 - ✅ Partículas de corazón sobre la cabeza del mob
 - ✅ Sonido de ronroneo (`ENTITY_CAT_PURR`)
@@ -33,7 +33,7 @@ Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mo
 3. Reinicia el servidor.
 4. ¡Listo! No requiere configuración adicional.
 
-## Créditos
+## Credits
 
 Inspirado en el mod original **PatPat** de [LopyMine](https://github.com/LopyMine/PatPat). Este plugin es una reimplementación independiente del lado del servidor usando la API de Bukkit/Paper.
 
