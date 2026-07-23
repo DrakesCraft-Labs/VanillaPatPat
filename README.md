@@ -1,6 +1,6 @@
 # VanillaPatPat
 
-Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mobs del famoso mod [PatPat](https://github.com/LopyMine/PatPat) — sin necesidad de que los jugadores instalen ningún mod en el cliente.
+Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mobs del famoso mod [PatPat](https://github.com/LopyMine/PatPat) — sin necesidad de que los players instalen ningún mod en el cliente.
 
 ## ¿Cómo funciona?
 
@@ -29,11 +29,11 @@ Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mo
 ## Installation
 
 1. Descarga el `.jar` desde la sección [Releases](../../releases).
-2. Colócalo en la carpeta `plugins/` de tu servidor.
+2. Colócalo en la folder `plugins/` de tu servidor.
 3. Reinicia el servidor.
 4. ¡Listo! No requiere configuración adicional.
 
-## Credits
+## Créditos
 
 Inspirado en el mod original **PatPat** de [LopyMine](https://github.com/LopyMine/PatPat). Este plugin es una reimplementación independiente del lado del servidor usando la API de Bukkit/Paper.
 
