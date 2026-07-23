@@ -8,7 +8,7 @@ Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mo
 2. Haz **clic derecho** con la **mano vacía**.
 3. ¡Tu personaje dará una palmada, saldrán corazones y escucharás un ronroneo!
 
-## Características
+## Features
 
 - ✅ 100% server-side — no requiere mods en el cliente
 - ✅ Compatible con cualquier mob vivo (animales, monstruos, etc.)
@@ -26,7 +26,7 @@ Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mo
 
 **Server Software compatibles:** Paper, Purpur, Spigot (y forks).
 
-## Instalación
+## Installation
 
 1. Descarga el `.jar` desde la sección [Releases](../../releases).
 2. Colócalo en la carpeta `plugins/` de tu servidor.
@@ -37,6 +37,6 @@ Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mo
 
 Inspirado en el mod original **PatPat** de [LopyMine](https://github.com/LopyMine/PatPat). Este plugin es una reimplementación independiente del lado del servidor usando la API de Bukkit/Paper.
 
-## Licencia
+## License
 
 MIT
