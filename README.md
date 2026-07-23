@@ -1,41 +1,41 @@
 # VanillaPatPat
 
-A PaperMC/Purpur server plugin that replicates the mob-petting mechanics of the popular [PatPat](https://github.com/LopyMine/PatPat) mod — without requiring any client-side mods for players.
+Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mobs del famoso mod [PatPat](https://github.com/LopyMine/PatPat) — sin necesidad de que los jugadores instalen ningún mod en el cliente.
 
-## How It Works
+## ¿Cómo funciona?
 
-1. **Sneak** (Shift) in front of any living mob.
-2. **Right-click** with an **empty hand**.
-3. Your character will pat the mob, spawning heart particles and playing a purr sound!
+1. **Agáchate** (Shift) frente a cualquier mob vivo.
+2. Haz **clic derecho** con la **mano vacía**.
+3. ¡Tu personaje dará una palmada, saldrán corazones y escucharás un ronroneo!
 
-## Features
+## Características
 
-- ✅ 100% server-side — no client-side mods required
-- ✅ Compatible with any living mob (animals, monsters, etc.)
-- ✅ 500ms anti-spam cooldown
-- ✅ Heart particles over the mob's head
-- ✅ Purring sound effect (`ENTITY_CAT_PURR`)
-- ✅ Action Bar notification message
+- ✅ 100% server-side — no requiere mods en el cliente
+- ✅ Compatible con cualquier mob vivo (animales, monstruos, etc.)
+- ✅ Cooldown de 500ms anti-spam
+- ✅ Partículas de corazón sobre la cabeza del mob
+- ✅ Sonido de ronroneo (`ENTITY_CAT_PURR`)
+- ✅ Mensaje en la Action Bar
 
-## Compatibility
+## Compatibilidad
 
-| Minecraft Version | Status |
+| Versión de Minecraft | Estado |
 |---|---|
-| 1.21.11 | ✅ Primary target (Paper API 1.21.11) |
-| 1.20.6 | ✅ 1.0.0 (Legacy API); use **1.0.1** for 1.21+ |
+| 1.21.11 | ✅ Objetivo principal (Paper API 1.21.11) |
+| 1.20.6 | ✅ 1.0.0 (API antigua); usa **1.0.1** para 1.21 |
 
-**Supported Server Software:** Paper, Purpur, Spigot (and forks).
+**Server Software compatibles:** Paper, Purpur, Spigot (y forks).
 
-## Installation
+## Instalación
 
-1. Download the `.jar` from the [Releases](../../releases) section.
-2. Place it in your server's `plugins/` directory.
-3. Restart the server.
-4. Done! No additional configuration required.
+1. Descarga el `.jar` desde la sección [Releases](../../releases).
+2. Colócalo en la carpeta `plugins/` de tu servidor.
+3. Reinicia el servidor.
+4. ¡Listo! No requiere configuración adicional.
 
-## Credits
+## Créditos
 
-Inspired by the original **PatPat** mod by [LopyMine](https://github.com/LopyMine/PatPat). This plugin is an independent server-side re-implementation built using the Bukkit/Paper API.
+Inspirado en el mod original **PatPat** de [LopyMine](https://github.com/LopyMine/PatPat). Este plugin es una reimplementación independiente del lado del servidor usando la API de Bukkit/Paper.
 
 ## License
 
