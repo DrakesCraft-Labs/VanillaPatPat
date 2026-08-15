@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/VanillaPatPat/master/banner.svg" width="100%" alt="VANILLA PATPAT animated banner" />
+</p>
+
 # VanillaPatPat
 
 Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mobs del famoso mod [PatPat](https://github.com/LopyMine/PatPat) — sin necesidad de que los jugadores instalen ningún mod en el cliente.
@@ -40,3 +44,4 @@ Inspirado en el mod original **PatPat** de [LopyMine](https://github.com/LopyMin
 ## License
 
 MIT
+
