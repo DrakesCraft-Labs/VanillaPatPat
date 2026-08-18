@@ -4,6 +4,16 @@
 
 # VanillaPatPat
 
+> ### 🏰 ¡Únete a la Comunidad Oficial de DrakesCraft!
+> 
+> * 🎮 **IP del Servidor**: `play.drakescraft.net` *(Java 1.21.11 & Bedrock)*
+> * 💬 **Discord Oficial**: [discord.gg/drakescraft](https://discord.gg/rR7FbfCt9Y)
+> * 🌐 **Web & Guía**: [drakescraft.net](https://drakescraft.net) — 🛒 **Tienda**: [tienda.drakescraft.net](https://tienda.drakescraft.net)
+> 
+> *¡Juega con este addon y más de 80 expansiones optimizadas en vivo en nuestra network de supervivencia técnica!*
+
+---
+
 Un plugin de servidor de PaperMC/Purpur que replica la mecánica de acariciar mobs del famoso mod [PatPat](https://github.com/LopyMine/PatPat) — sin necesidad de que los jugadores instalen ningún mod en el cliente.
 
 ## ¿Cómo funciona?
